@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Video 1-12: Transfer of Respiratory Pathogens\u2014Modes of Transmission"
 uid: 30aebd51-2580-cdc7-d521-67b1818a5ea9
 video_files:
   archive_url: https://archive.org/download/MITRES10.S95F20/MITRES_10_S95F20_0112_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/c0326769f73b51248c5d650f917b2ea6_lFDL2Qif2vE.vtt
+  video_captions_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/c0326769f73b51248c5d650f917b2ea6_lFDL2Qif2vE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/lFDL2Qif2vE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/f5bf8f7c68acae533ac9d3ca93154db3_lFDL2Qif2vE.pdf
+  video_transcript_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/f5bf8f7c68acae533ac9d3ca93154db3_lFDL2Qif2vE.pdf
 video_metadata:
   youtube_id: lFDL2Qif2vE
 ---

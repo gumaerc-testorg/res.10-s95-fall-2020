@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Video 5-4: Beyond the Well-Mixed Room\u2014Aerosol Transport"
 uid: 23e3581e-e651-3ae4-0ec5-1b7da63b0393
 video_files:
   archive_url: https://archive.org/download/MITRES10.S95F20/MITRES_10_S95F20_0504_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/28d545f3ecba5df6a83becf4e97f4949_i_F7ndSmVGE.vtt
+  video_captions_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/28d545f3ecba5df6a83becf4e97f4949_i_F7ndSmVGE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/i_F7ndSmVGE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/ff097df2e742f4912e38ca21b16cbe6b_i_F7ndSmVGE.pdf
+  video_transcript_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/ff097df2e742f4912e38ca21b16cbe6b_i_F7ndSmVGE.pdf
 video_metadata:
   youtube_id: i_F7ndSmVGE
 ---

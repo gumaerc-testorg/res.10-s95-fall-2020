@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Video 5-5: Beyond the Well-Mixed Room\u2014Respiratory Puffs and Jets"
 uid: 683ef146-0270-ee3c-0289-c4698cdde046
 video_files:
   archive_url: https://archive.org/download/MITRES10.S95F20/MITRES_10_S95F20_0505_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/4dac8712bb8e52ec839c0c2b5d9d2b16_QbueCxKUUTo.vtt
+  video_captions_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/4dac8712bb8e52ec839c0c2b5d9d2b16_QbueCxKUUTo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/QbueCxKUUTo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/afec030213d465eb0ce3dc3969dc3192_QbueCxKUUTo.pdf
+  video_transcript_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/afec030213d465eb0ce3dc3969dc3192_QbueCxKUUTo.pdf
 video_metadata:
   youtube_id: QbueCxKUUTo
 ---

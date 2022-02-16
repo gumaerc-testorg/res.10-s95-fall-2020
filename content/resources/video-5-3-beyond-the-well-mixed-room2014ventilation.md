@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Video 5-3: Beyond the Well-Mixed Room\u2014Ventilation"
 uid: ecc7bead-8009-25a7-30e0-16994a7b6c48
 video_files:
   archive_url: https://archive.org/download/MITRES10.S95F20/MITRES_10_S95F20_0503_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/2d7dafe8199c5fbc959af34b07ddc24f_nyuKHTzr6xA.vtt
+  video_captions_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/2d7dafe8199c5fbc959af34b07ddc24f_nyuKHTzr6xA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/nyuKHTzr6xA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/1590e0f2915123314cdb8663bfd68876_nyuKHTzr6xA.pdf
+  video_transcript_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/1590e0f2915123314cdb8663bfd68876_nyuKHTzr6xA.pdf
 video_metadata:
   youtube_id: nyuKHTzr6xA
 ---

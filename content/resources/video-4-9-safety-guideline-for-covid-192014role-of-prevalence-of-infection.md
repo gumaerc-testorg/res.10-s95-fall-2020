@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Video 4-9: Safety Guideline for COVID-19\u2014Role of Prevalence of Infection"
 uid: 785a4e5d-30a3-ff49-cf8d-047a249d5bfb
 video_files:
   archive_url: https://archive.org/download/MITRES10.S95F20/MITRES_10_S95F20_0409_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/bb871424dba359438c4ff00ce56cd75d_0VppWRGt0uk.vtt
+  video_captions_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/bb871424dba359438c4ff00ce56cd75d_0VppWRGt0uk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/0VppWRGt0uk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/03757f671a685d1711390e23e2edb81e_0VppWRGt0uk.pdf
+  video_transcript_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/03757f671a685d1711390e23e2edb81e_0VppWRGt0uk.pdf
 video_metadata:
   youtube_id: 0VppWRGt0uk
 ---

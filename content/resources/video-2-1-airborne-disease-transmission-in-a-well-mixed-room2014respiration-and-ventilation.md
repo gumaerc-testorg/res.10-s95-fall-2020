@@ -2,15 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Video 2-1: Airborne Disease Transmission in a Well-Mixed Room\u2014Respiration\
   \ and Ventilation"
 uid: 6af62c4c-970e-316f-1ab0-e4502605d2cd
 video_files:
   archive_url: https://archive.org/download/MITRES10.S95F20/MITRES_10_S95F20_0201_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/1b273fa8cafe5e049b928c4bc7d95bb0_nOW0xBef6rg.vtt
+  video_captions_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/1b273fa8cafe5e049b928c4bc7d95bb0_nOW0xBef6rg.vtt
   video_thumbnail_file: https://img.youtube.com/vi/nOW0xBef6rg/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/96bba5ac14cd3f4ebeb0d34fdde45bed_nOW0xBef6rg.pdf
+  video_transcript_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/96bba5ac14cd3f4ebeb0d34fdde45bed_nOW0xBef6rg.pdf
 video_metadata:
   youtube_id: nOW0xBef6rg
 ---

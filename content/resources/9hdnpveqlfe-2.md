@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/06e5025b59955e1face8d8aaf82106bb_9hdNPVEQLFE.vtt
+file: /media/courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/06e5025b59955e1face8d8aaf82106bb_9hdNPVEQLFE.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 06e5025b-5995-5e1f-ace8-d8aaf82106bb

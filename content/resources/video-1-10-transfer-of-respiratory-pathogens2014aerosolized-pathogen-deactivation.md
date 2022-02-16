@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Video 1-10: Transfer of Respiratory Pathogens\u2014Aerosolized Pathogen Deactivation"
 uid: 077bb5c4-9c33-56d8-a726-8eb3bcff4313
 video_files:
   archive_url: https://archive.org/download/MITRES10.S95F20/MITRES_10_S95F20_0110_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/9cd1bd59d8035adbb87ebfeca8565a1d_71dUZmywpOM.vtt
+  video_captions_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/9cd1bd59d8035adbb87ebfeca8565a1d_71dUZmywpOM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/71dUZmywpOM/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-s95-physics-of-covid-19-transmission-fall-2020/6c965451af2b51cab0fcfc038e053502_71dUZmywpOM.pdf
+  video_transcript_file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/6c965451af2b51cab0fcfc038e053502_71dUZmywpOM.pdf
 video_metadata:
   youtube_id: 71dUZmywpOM
 ---
