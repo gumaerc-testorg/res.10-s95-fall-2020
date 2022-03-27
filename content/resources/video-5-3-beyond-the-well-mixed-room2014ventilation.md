@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 5-3: Beyond the Well-Mixed Room\u2014Ventilation"
 uid: ecc7bead-8009-25a7-30e0-16994a7b6c48
 video_files:

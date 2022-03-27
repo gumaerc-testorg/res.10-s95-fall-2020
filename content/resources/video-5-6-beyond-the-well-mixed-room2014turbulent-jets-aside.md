@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 5-6: Beyond the Well-Mixed Room\u2014Turbulent Jets (ASIDE)"
 uid: f542e7e7-41b3-f5e4-b031-bbbb5aa1e1ca
 video_files:

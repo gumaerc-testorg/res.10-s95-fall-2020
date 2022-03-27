@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 4-7: Safety Guideline for COVID-19\u2014Analysis of Superspreading Events"
 uid: 7ca523ea-9803-fb87-9e5e-6d0191cb3af8
 video_files:

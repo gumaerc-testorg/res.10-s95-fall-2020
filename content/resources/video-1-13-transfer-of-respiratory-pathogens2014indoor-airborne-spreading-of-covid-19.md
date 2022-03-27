@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 1-13: Transfer of Respiratory pathogens\u2014Indoor Airborne Spreading\
   \ of COVID-19"
 uid: eb70d029-8962-a0bd-643e-8e96daace583

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 2-0: Airborne Disease Transmission in a Well-Mixed Room\u2014Chapter\
   \ 2 Overview"
 uid: be5e884a-59cd-c7d1-cc3b-85add59863c0

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 4-5: Safety Guideline for COVID-19\u2014Transient Aerosol Buildup"
 uid: 2cdd25fb-4a65-56a6-0034-2a6c5224bfee
 video_files:

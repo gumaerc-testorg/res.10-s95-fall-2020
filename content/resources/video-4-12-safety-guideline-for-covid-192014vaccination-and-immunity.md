@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 4-12: Safety Guideline for COVID-19\u2014Vaccination and Immunity"
 uid: fb48df94-f459-4d26-650b-27e914423586
 video_files:

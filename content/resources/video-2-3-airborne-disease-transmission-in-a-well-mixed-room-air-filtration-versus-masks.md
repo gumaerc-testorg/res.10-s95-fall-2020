@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 2-3: Airborne Disease Transmission in a Well-Mixed Room\u2014Air Filtration\
   \ Versus Masks"
 uid: 709c6b89-dff1-5b80-55fc-f9f6b3800aed

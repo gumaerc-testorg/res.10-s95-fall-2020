@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 5-7: Beyond the Well-Mixed Room\u2014Short-Range Transmission"
 uid: f5e43a94-d3b8-4cd3-e65a-d7a28df0436d
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 3-1: Epidemiological Models\u2014Disease Spreading in a Population"
 uid: 67fd124f-2fc1-9659-ffcd-7ffee5d63bb5
 video_files:

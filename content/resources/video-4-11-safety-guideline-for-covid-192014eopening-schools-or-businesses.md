@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 4-11: Safety Guideline for COVID-19\u2014Reopening Schools or Businesses"
 uid: 1e31b1cc-06ad-eea1-38ca-4b65755390bf
 video_files:

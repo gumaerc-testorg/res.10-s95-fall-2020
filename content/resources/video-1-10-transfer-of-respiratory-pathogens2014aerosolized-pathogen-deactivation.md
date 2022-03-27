@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 1-10: Transfer of Respiratory Pathogens\u2014Aerosolized Pathogen Deactivation"
 uid: 077bb5c4-9c33-56d8-a726-8eb3bcff4313
 video_files:

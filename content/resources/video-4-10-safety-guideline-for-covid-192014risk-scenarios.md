@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 4-10: Safety Guideline for COVID-19\u2014Risk Scenarios"
 uid: c0437663-b5b6-bae3-1ee3-610b77ef0ed4
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 1-7: Transfer of Respiratory Pathogens\u2014Escape Time of Virions"
 uid: 8b71c270-7361-3f02-3ae2-96248222d23c
 video_files:

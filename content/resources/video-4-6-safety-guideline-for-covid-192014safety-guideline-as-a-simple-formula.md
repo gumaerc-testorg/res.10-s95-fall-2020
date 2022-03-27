@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 4-6: Safety Guideline for COVID-19\u2014Safety Guideline as a Simple\
   \ Formula"
 uid: 97f79d11-34c0-70ef-7131-c03fe0a303d2

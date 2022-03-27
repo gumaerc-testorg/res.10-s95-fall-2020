@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 4-0: Safety Guideline for COVID-19\u2014Chapter 4 Overview"
 uid: b95afe2b-b6dd-e784-9c43-55d5a3cf2015
 video_files:

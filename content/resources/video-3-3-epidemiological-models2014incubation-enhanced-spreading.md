@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 3-3: Epidemiological Models\u2014Incubation-Enhanced Spreading"
 uid: 6132f22e-a296-a75f-1c49-a6f3a58a3452
 video_files:

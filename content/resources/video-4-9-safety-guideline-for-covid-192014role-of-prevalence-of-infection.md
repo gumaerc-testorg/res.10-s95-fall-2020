@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 4-9: Safety Guideline for COVID-19\u2014Role of Prevalence of Infection"
 uid: 785a4e5d-30a3-ff49-cf8d-047a249d5bfb
 video_files:

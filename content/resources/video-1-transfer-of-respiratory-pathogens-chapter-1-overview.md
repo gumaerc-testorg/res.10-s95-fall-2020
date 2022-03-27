@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 1-0: Transfer of Respiratory Pathogens\u2014Chapter 1 Overview"
 uid: 37fd56d2-7ee3-629b-7aac-586925111065
 video_files:

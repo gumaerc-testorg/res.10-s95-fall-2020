@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 4-8: Safety Guideline for COVID-19\u2014Case Studies"
 uid: 0a13f6aa-fd73-1bae-d797-3f6d9a778edc
 video_files:

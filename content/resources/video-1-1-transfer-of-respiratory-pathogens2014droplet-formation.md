@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 1-1: Transfer of Respiratory Pathogens\u2014Droplet Formation"
 uid: 83c3ec33-bb9b-2b67-83aa-9545d59f4718
 video_files:

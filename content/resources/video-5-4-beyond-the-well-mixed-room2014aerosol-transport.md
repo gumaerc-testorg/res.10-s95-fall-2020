@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 5-4: Beyond the Well-Mixed Room\u2014Aerosol Transport"
 uid: 23e3581e-e651-3ae4-0ec5-1b7da63b0393
 video_files:

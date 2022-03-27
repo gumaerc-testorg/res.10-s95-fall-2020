@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 4-1: Safety Guideline for COVID-19\u2014Cumulative Exposure Time"
 uid: b1fb882b-a1a8-5c17-0b87-0fefaa66ff2f
 video_files:

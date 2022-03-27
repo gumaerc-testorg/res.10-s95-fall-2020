@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 1-3: Transfer of Respiratory Pathogens\u2014Wells Curve Derivation (ASIDE)"
 uid: 58bab3db-a11f-6a85-7120-5bb248694a03
 video_files:

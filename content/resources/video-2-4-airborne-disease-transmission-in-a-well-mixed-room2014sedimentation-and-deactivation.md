@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 2-4: Airborne Disease Transmission in a Well-Mixed Room\u2014Sedimentation\
   \ and Deactivation"
 uid: f317d4d6-23e4-cb9b-17a5-eca9dabd6e7e

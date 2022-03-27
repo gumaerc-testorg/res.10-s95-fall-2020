@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 4-2: Safety Guideline for COVID-19\u2014Transmission Rate"
 uid: ae9399e3-218f-ad62-bcf7-4d67e8937768
 video_files:

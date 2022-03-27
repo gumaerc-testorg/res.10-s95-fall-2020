@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 1-8: Transfer of Respiratory Pathogens\u2014Release of Viral Load from\
   \ a Drop (ASIDE)"
 uid: 91129d9b-3a01-c200-0fcf-e8b1f43ef5a2

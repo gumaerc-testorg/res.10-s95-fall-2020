@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 4-3: Safety Guideline for COVID-19\u2014Transient Transmission Rate"
 uid: f0f56bcc-9cef-5785-3030-db5b7792e049
 video_files:

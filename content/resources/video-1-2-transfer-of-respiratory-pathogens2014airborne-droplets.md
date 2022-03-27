@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 1-2: Transfer of Respiratory Pathogens\u2014Airborne Droplets"
 uid: a73217fe-1db8-eab5-58fa-6c18d43c844b
 video_files:

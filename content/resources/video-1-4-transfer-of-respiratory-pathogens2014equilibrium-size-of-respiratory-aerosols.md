@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 1-4: Transfer of Respiratory Pathogens\u2014Equilibrium Size of Respiratory\
   \ Aerosols"
 uid: e5d003c1-a025-caac-4193-cc564435b9a6

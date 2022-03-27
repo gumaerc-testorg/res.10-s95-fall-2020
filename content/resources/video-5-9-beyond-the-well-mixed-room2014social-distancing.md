@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 5-9: Beyond the Well-Mixed Room\u2014Social Distancing"
 uid: 512dfad1-a3aa-fdb1-7755-0fc66ef67162
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 1-12: Transfer of Respiratory Pathogens\u2014Modes of Transmission"
 uid: 30aebd51-2580-cdc7-d521-67b1818a5ea9
 video_files:

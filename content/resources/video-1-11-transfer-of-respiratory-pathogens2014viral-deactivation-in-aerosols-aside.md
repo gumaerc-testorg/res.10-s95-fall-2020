@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Video 1-11: Transfer of Respiratory Pathogens\u2014Viral Deactivation in Aerosols\
   \ (ASIDE)"
 uid: aef1168f-b38b-5a96-881e-889a206b7312
