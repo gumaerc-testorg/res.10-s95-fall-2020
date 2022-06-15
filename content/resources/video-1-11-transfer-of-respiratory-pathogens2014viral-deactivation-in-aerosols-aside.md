@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +29,6 @@ video_metadata:
 A theory for the Lin-Marr viral deactivation kinetics based on diffusion-limited evaporation.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

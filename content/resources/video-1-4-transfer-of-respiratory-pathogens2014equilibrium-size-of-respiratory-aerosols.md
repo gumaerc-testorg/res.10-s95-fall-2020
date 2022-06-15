@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +29,6 @@ video_metadata:
 Equilibrium droplet size varies with relative humidity. Infectious respiratory droplets contain proteins, sugars, salts, and virions. Mucus has a greater volume fraction of solutes than saliva. Droplets are hygroscopic and grow at high relative humidities.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

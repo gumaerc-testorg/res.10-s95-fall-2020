@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 The comparison of short- and long-range transmission risks depend on many factors such as mask wearing, social distance, and human behaviors, but an intuitive analogy is second-hand smoke in an indoor space.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

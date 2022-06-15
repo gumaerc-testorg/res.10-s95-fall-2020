@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 Respiratory droplets are formed in the respiratory tract. Different phenomena cause droplets of varying size distributions to be formed in the upper and lower respiratory tract.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

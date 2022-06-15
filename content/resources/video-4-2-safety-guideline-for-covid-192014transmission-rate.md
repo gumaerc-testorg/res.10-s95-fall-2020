@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 The expected number of transmissions is greater than or equal to the risk of at least one transmission. As the tolerance approaches zero, the risk of a transmission is asymptotic to the expected number of transmissions.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 Chapter 4: Safety guideline for COVID-19. Existing guidelines limit one parameter at a time, which may be too conservative in some cases and not safe enough in others. All parameters must be related in a general guideline.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

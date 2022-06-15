@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 Summary of comparison of indoor airborne transmission risks. Long-range airborne transmission dominates when masks are worn, while short-range transmission may become important when masks are not worn.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

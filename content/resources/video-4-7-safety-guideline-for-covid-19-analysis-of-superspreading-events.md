@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 Parameterization of infection quanta per volume of inhaled breath based on analyses of superspreading incidents, which turns out to depend on respiratory activity.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

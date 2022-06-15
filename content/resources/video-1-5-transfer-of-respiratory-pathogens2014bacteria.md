@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 Streptococcus bacteria are only found in larger drops which enable fomite and short-range airborne transmission. Tuberculosis bacteria are found in smaller droplets which enable long-range airborne transmission.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

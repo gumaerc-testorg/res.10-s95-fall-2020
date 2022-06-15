@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 The Péclet number describes the amount of forced convection. Turbulent indoor air flow lead to eddy diffusion. Droplet settling occurs in addition to the turbulent mixing.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

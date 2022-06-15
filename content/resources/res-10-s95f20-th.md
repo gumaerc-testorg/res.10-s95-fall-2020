@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/39499dc804436a5bd2892a56d8e54f1a_res-10-s95f20-th.jpg
+file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/39499dc804436a5bd2892a56d8e54f1a_res-10-s95f20-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'This transmission electron microscopic image shows SARS-CoV-2, also known

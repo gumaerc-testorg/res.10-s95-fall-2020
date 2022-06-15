@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +29,6 @@ video_metadata:
 Air filtration and mask filtration reduce COVID-19 transmission in different ways. Air filters, no matter how effective, only increase uniform removal of virions from the indoor air. Even basic masks block droplets both at the source and at the target.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

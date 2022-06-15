@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +29,6 @@ video_metadata:
 Infectivity of a respiratory drop may depend on its size due to differences in the escape time. In a larger drop, a fewer fraction of virions are able to escape in the same amount of time.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

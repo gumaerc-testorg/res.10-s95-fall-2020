@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 Chapter 3: Epidemiological models. Dynamics of disease spreading among compartments in a population: susceptible, infected, exposed, recovered.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

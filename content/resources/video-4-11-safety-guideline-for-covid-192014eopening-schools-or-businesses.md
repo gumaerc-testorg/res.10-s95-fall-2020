@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 Applying the safety guideline to schools and businesses. At different stages of the pandemic, restrictions can be relaxed (with masks) as the prevalence of infection changes and safety interventions are made.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

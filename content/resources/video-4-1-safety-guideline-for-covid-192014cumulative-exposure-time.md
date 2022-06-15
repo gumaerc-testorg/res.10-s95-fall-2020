@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 Safety guideline for COVID-19 based on the indoor reproductive number, which is proportional to the cumulative exposure time times the average transmission rate. Limits on occupancy, time, or social distance neglect interaction between the number and time.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

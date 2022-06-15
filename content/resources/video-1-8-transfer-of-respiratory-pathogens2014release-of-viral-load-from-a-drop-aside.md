@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +29,6 @@ video_metadata:
 PDE for the spatial distribution of the mean first passage time for a random walker inside a sphere to reach the surface. Spatial averaging gives the average escape time, assuming an initially uniform distribution of random walkers.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

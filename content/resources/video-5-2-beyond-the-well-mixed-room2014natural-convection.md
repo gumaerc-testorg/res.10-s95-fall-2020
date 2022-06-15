@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 Buoyancy driven flow also contributes to the mixing of the indoor air, controlled by the Rayleigh number. The higher human body temperature, space heating, and HVAC all lead to thermal effects and enhance natural convection.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

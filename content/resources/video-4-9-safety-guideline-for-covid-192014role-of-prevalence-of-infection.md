@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 The safety guideline can be modified to account for the prevalence of infection in a certain population by introducing a random variable for the number of infected people in a room.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +29,6 @@ video_metadata:
 Epidemiological and physical evidence of long-range airborne transmission of COVID-19, including a survey of well-known superspreading events early on in the COVID-19 pandemic where spreading could not be explained without airborne transmission.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

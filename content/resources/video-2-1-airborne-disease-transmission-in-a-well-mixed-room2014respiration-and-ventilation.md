@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +29,6 @@ video_metadata:
 Mass balance of virions in a well-mixed room as an ODE. Production by infectors, removal by ventilation, and the volume of the room control the dynamics of concentration, which could take the form of an exponential decay.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

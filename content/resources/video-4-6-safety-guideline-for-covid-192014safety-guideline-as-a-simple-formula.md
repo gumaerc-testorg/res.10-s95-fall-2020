@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -28,3 +29,6 @@ video_metadata:
 Safety guideline for COVID-19 as a simple formula based on the steady transmission rate. The cumulative exposure time is bounded above by a value determined based on risk tolerance and indoor conditions.
 
 Speaker: Professor Martin Z. Bazant
+
+
+

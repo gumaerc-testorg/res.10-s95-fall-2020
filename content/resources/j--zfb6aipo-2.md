@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/4f4b506766675ad7bb317097dfcd72e1_j--zfB6AIpo.vtt
+file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/4f4b506766675ad7bb317097dfcd72e1_j--zfB6AIpo.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

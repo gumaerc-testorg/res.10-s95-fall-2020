@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -29,3 +30,6 @@ Relative humidity affects the deactivation of bacteria and virus differently. Vi
 Ref: [Humidity-Dependent Decay of Viruses, but Not Bacteria, in Aerosols and Droplets Follows Disinfection Kinetics Kaisen Lin and Linsey C. Marr Environmental Science & Technology 2020 54 (2), 1024-1032 DOI: 10.1021/acs.est.9b04959](https://pubs.acs.org/doi/10.1021/acs.est.9b04959)
 
 Speaker: Professor Martin Z. Bazant
+
+
+

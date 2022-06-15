@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/33a9d5e9ac9cee579f282acff907b4ab_NJST-IUGBUA.srt
+file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/33a9d5e9ac9cee579f282acff907b4ab_NJST-IUGBUA.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

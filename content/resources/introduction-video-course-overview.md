@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -29,3 +30,6 @@ Please consider taking the full course (which includes problems) for free on [ed
 Also check out Prof. Bazant's webpage on [COVID-19 Indoor Safety Guideline](http://web.mit.edu/bazant/www/COVID-19/).
 
 Speaker: Professor Martin Z. Bazant
+
+
+
