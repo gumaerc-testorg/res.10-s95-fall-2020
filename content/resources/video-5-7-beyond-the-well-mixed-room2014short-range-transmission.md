@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Calculation of the excess risk due to short-range transmission relative to long-term airborne transmission as a function of the distance of separation. The crossover distance is typically much greater than six feet.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

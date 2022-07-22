@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 Droplet settling and virion deactivation also slowly remove virions from the indoor air. The rates affect the relaxation of the indoor virion concentration.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

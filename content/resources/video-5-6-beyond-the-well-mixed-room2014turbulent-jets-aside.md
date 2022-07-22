@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Derivation of the flow profile in a turbulent jet as well as the resulting concentration profile assuming radial mixing. The virion concentration decays as the inverse of the axial distance from the source.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

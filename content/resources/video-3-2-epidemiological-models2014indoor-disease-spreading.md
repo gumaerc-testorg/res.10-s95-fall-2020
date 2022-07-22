@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 The susceptible-exposed-infected (SEI) epidemiological model of disease spreading in a population, which is a system of coupled nonlinear ODEs. The slow incubation limit is equivalent to a linear response.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

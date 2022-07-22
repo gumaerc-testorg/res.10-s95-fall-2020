@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Mixing ventilation creates unstable thermal gradients, leading to more mixing, w
 Ref: [Bhagat, R., Davies Wykes, M., Dalziel, S., & Linden, P. (2020). Effects of ventilation on the indoor spread of COVID-19. Journal of Fluid Mechanics, 903, F1. doi:10.1017/jfm.2020.720](https://doi.org/10.1017/jfm.2020.720)
 
 Speaker: Professor Martin Z. Bazant
-
-
 

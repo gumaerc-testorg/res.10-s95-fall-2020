@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Chapter 5: Beyond the well-mixed room. Indoor fluid mechanics beyond the well-mixed assumption. Effects of respiratory activities, thermal effects, ventilation, and more. Analysis of short-range transmission of a respiratory disease.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

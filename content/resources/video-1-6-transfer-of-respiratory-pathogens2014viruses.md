@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Measles and coronaviruses have small virions which can occur in small respiratory droplets, leading to airborne transmission.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

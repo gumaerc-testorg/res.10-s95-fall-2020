@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Safety guideline applied to two different case studies: a classroom and a nursing home. Bounds on the cumulative exposure time are very different due to different indoor conditions, which simple occupancy and time bounds fail to capture.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Virions cannot swim and must diffuse out of a respiratory droplet. The average escape time is proportional to the radius of the droplet squared and inversely proportional to the diffusivity, which is inversely proportional to the viscosity of the liquid.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 Formula for the transmission rate, defined as the number of infection quanta transmitted per unit time. Formula for the steady-state transmission rate in a well-mixed room. The infectivity of a SARS-CoV-2 virion is estimated to be possibly more than 10%.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

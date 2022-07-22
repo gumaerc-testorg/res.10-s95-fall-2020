@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Derivation of the Wells theory. Settling time is given by Stokes' drag formula and is inversely proportional to the radius of droplet squared, while evaporation time is limited by diffusion of water vapor and is proportional to the radius squared.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 The timescale associated with the buildup to the steady-state transmission rate is the inverse of the relaxation time. A transient correction factor the the safety guideline shows that when the time goes to zero, the risk also goes to zero.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

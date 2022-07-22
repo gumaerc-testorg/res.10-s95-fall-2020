@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 As an infector enters a room, the transient transmission rate increases over time like an exponential decay, eventually approaching a steady state.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

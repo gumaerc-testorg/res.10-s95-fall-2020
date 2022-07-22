@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 The safety guideline has been previously used to limit spreading if an infected person enters a room. Factors related to prevalence of infection can be introduced to limit transmission and personal risk.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

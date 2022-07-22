@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 In addition prevalence of infection, immunity from vaccines and prior exposure can impact the safety guideline. The probability of immunity changes the expected number of susceptible people in a room.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

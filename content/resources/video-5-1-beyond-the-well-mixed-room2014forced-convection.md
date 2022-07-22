@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 The Reynolds number describes the flow regime. Typical indoor activities such as breathing, motion as well as natural and forced ventilation can easily lead to the turbulent mixing of indoor air, all supporting the assumption of the well-mixed room.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

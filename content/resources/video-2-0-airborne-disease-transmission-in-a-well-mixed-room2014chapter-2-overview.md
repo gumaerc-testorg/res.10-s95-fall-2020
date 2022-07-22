@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 Chapter 2: Airborne disease transmission in a well-mixed room. Airborne transmission is important for COVID-19 transmission; analysis of concentration of virions in the air when the air in the room is well mixed, considering various effects.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

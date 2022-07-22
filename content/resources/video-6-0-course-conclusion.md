@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 We have discussed the physical principles that quantitatively affect the risks of long- and short-term airborne transmission of COVID-19. There are many ways to limit transmission, but it is important to know that these variables are linked.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

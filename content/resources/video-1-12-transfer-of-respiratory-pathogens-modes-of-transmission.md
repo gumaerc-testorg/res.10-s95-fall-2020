@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Fomite/contact, larger ballistic drops, short- and long-range aerosol are the main modes of transmission for respiratory diseases like COVID-19. Long-range airborne transmission dominates when face coverings are worn.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

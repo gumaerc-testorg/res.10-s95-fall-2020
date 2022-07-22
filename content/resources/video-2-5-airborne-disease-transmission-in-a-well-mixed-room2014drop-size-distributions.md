@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 Droplet size controls the transmission rate of COVID-19. Different respiratory activities produce different droplet-size distributions. Different size droplets have different infectivities, settle at different rates, and respond differently to filtration.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

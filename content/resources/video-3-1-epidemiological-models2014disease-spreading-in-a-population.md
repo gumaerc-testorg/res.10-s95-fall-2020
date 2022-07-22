@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 The susceptible-infected-removed (SIR) epidemiological model of disease spreading in a population, which is a system of coupled nonlinear ODEs. An epidemic will occur when the initial reproductive number is greater than unity.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

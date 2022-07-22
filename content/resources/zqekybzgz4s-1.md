@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/a9aa20232ab8b2a408fc433d6f438124_ZqEKYbzgz4s.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

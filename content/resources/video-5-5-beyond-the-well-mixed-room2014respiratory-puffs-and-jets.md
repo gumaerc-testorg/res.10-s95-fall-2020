@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ Analysis of the movement of a turbulent respiratory jet, a single respiratory pu
 Ref: [Speech can produce jet-like transport relevant to asymptomatic spreading of virus Manouk Abkarian, Simon Mendez, Nan Xue, Fan Yang, Howard A. Stone Proceedings of the National Academy of Sciences Oct 2020, 117 (41) 25237-25245; DOI: 10.1073/pnas.2012156117](https://doi.org/10.1073/pnas.2012156117)
 
 Speaker: Professor Martin Z. Bazant
-
-
 

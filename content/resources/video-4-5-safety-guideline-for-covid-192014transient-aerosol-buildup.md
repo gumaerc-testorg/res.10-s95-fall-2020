@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Long after an infector enters a room, the transmission rate reaches a steady-state value, which may be described by a simple formula.
 
 Speaker: Professor Martin Z. Bazant
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Respiratory pathogens are transmitted via respiratory droplets. The Wells curve compares the settling and evaporation of droplets of different sizes. Respiratory activity affects the droplet-size distribution.
 
 Speaker: Professor Martin Z. Bazant
-
-
 
