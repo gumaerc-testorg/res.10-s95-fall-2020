@@ -2,6 +2,7 @@
 content_type: video_gallery
 description: This section offers the complete collection of lecture videos in MIT
   course 10.S95 Physics of COVID-19 Transmission, fall 2020.
+draft: false
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
@@ -61,7 +62,4 @@ videos:
   - 31ed3543-f3c8-8959-162e-775bfa841fbd
   website: res-10-s95-physics-of-covid-19-transmission-fall-2020
 ---
-
-
 {{< video-gallery "7be79e0b-9640-e9af-dc71-96833289c279" >}}
-
