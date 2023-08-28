@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -25,10 +32,8 @@ video_files:
 video_metadata:
   youtube_id: 2Y__Z_PgAxQ
 ---
-
-Please consider taking the full course (which includes problems) for free on [edX](https://www.edx.org/course/physics-of-covid-19-transmission?utm_campaign=mitx&utm_medium=partner-marketing&utm_source=social&utm_content=10.s95x-ocw).
+Please consider taking the full course (which includes problems) for free on [MITx Online](https://courses.mitxonline.mit.edu/learn/course/course-v1:MITxT+10.S95x+3T2022/home).
 
 Also check out Prof. Bazant's webpage on [COVID-19 Indoor Safety Guideline](http://web.mit.edu/bazant/www/COVID-19/).
 
 Speaker: Professor Martin Z. Bazant
-
