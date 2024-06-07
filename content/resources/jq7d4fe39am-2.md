@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/32096ae666d15c82ae67692af04fef3b_jq7d4fE39aM.vtt
+file_size: 10838
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
