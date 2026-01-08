@@ -29,7 +29,7 @@ video_metadata:
 
 Mixing ventilation creates unstable thermal gradients, leading to more mixing, while displacement ventilation leads to stratification of the ambient air.
 
-Ref: {{% resource_link "a58db5a5-3133-4f3b-af36-daa3d94525ff" "Bhagat, R., Davies Wykes, M., Dalziel, S., & Linden, P. (2020). Effects of ventilation on the indoor spread of COVID-19. Journal of Fluid Mechanics, 903, F1. doi:10.1017/jfm.2020.720" %}}
+Ref: [Bhagat, R., Davies Wykes, M., Dalziel, S., & Linden, P. (2020). Effects of ventilation on the indoor spread of COVID-19. Journal of Fluid Mechanics, 903, F1. doi:10.1017/jfm.2020.720](https://doi.org/10.1017/jfm.2020.720)
 
 Speaker: Professor Martin Z. Bazant
 

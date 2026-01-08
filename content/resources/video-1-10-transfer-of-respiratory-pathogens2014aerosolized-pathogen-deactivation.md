@@ -29,7 +29,7 @@ video_metadata:
 
 Relative humidity affects the deactivation of bacteria and virus differently. Virions in droplets remain viable for longer at both low and high relative humidities due to less exposure to deactivating salts.
 
-Ref: {{% resource_link "74c15d33-b63c-493c-9f89-e1d5c887a9b9" "Humidity-Dependent Decay of Viruses, but Not Bacteria, in Aerosols and Droplets Follows Disinfection Kinetics Kaisen Lin and Linsey C. Marr Environmental Science & Technology 2020 54 (2), 1024-1032 DOI: 10.1021/acs.est.9b04959" %}}
+Ref: [Humidity-Dependent Decay of Viruses, but Not Bacteria, in Aerosols and Droplets Follows Disinfection Kinetics Kaisen Lin and Linsey C. Marr Environmental Science & Technology 2020 54 (2), 1024-1032 DOI: 10.1021/acs.est.9b04959](https://pubs.acs.org/doi/10.1021/acs.est.9b04959)
 
 Speaker: Professor Martin Z. Bazant
 
