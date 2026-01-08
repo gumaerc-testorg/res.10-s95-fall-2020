@@ -29,7 +29,7 @@ video_metadata:
 
 Analysis of the movement of a turbulent respiratory jet, a single respiratory puff, and a puff train.
 
-Ref: {{% resource_link "7b94baad-bcfb-4b7a-850a-24c82140af56" "Speech can produce jet-like transport relevant to asymptomatic spreading of virus Manouk Abkarian, Simon Mendez, Nan Xue, Fan Yang, Howard A. Stone Proceedings of the National Academy of Sciences Oct 2020, 117 (41) 25237-25245; DOI: 10.1073/pnas.2012156117" %}}
+Ref: [Speech can produce jet-like transport relevant to asymptomatic spreading of virus Manouk Abkarian, Simon Mendez, Nan Xue, Fan Yang, Howard A. Stone Proceedings of the National Academy of Sciences Oct 2020, 117 (41) 25237-25245; DOI: 10.1073/pnas.2012156117](https://doi.org/10.1073/pnas.2012156117)
 
 Speaker: Professor Martin Z. Bazant
 

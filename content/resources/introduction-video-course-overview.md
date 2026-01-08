@@ -32,8 +32,8 @@ video_files:
 video_metadata:
   youtube_id: 2Y__Z_PgAxQ
 ---
-Please consider taking the full course (which includes problems) for free on {{% resource_link "8b949635-1c59-48b0-a7e0-f20a8ce4a56e" "MITx Online" %}}.
+Please consider taking the full course (which includes problems) for free on [MITx Online](https://courses.mitxonline.mit.edu/learn/course/course-v1:MITxT+10.S95x+3T2022/home).
 
-Also check out Prof. Bazant's webpage on {{% resource_link "c37afddb-f2b0-4c57-b27c-152a41673f1c" "COVID-19 Indoor Safety Guideline" %}}.
+Also check out Prof. Bazant's webpage on [COVID-19 Indoor Safety Guideline](http://web.mit.edu/bazant/www/COVID-19/).
 
 Speaker: Professor Martin Z. Bazant
